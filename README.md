@@ -1,5 +1,7 @@
 # McWorterRaspberryPiPicoLessonHomework
 
+Complete playlist for these lessons is at https://www.youtube.com/watch?v=P1dzHNgAtvg&list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5
+
 Find out the least time the LED can be lit to be able to see it.  
 The LED can only be turned on and off as quickly as the Pico can 
 turn it on and off. 
